@@ -1,0 +1,6 @@
+<settings>
+	<setting><active>true</active><task>Delete stabilized</task></setting>
+	<setting><active>false</active><task>Move originals</task></setting>
+	<setting><active>true</active><task>Move stabilized</task></setting>
+	<setting><active>true</active><task>Delete originals</task></setting>
+</settings>
